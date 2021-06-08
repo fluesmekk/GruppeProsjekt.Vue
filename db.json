@@ -1,0 +1,46 @@
+{
+    "books": [
+        {
+          "id":1,
+          "name":"Tur-return Norge",
+          "author":"helenemoo",
+          "img":"https://www.haugenbok.no/sites/default/files/styles/product_large/public/products/9788284190464.jpg?itok=AHGg4tUq",
+          "genre": "fantasy"
+        },
+        {
+          "id":2,
+          "name":"Sølvmyntene",
+          "author":"Tom Egeland",
+          "img":"https://www.haugenbok.no/sites/default/files/styles/product_large/public/products/9788284191171.jpg?itok=ceTxt1DQ",
+          "genre": "fantasy"
+        },
+        {
+          "id":3,
+          "name":"Knitteriet",
+          "author":"Mona Nilsen",
+          "img":"https://www.haugenbok.no/sites/default/files/styles/product_large/public/products/9788293551812.jpg?itok=Fzul2N2r",
+          "genre": "fantasy"
+        },
+        {
+          "id":4,
+          "name":"Mannen fra middelalderen",
+          "author":"Tormod Torfæus",
+          "img":"https://www.haugenbok.no/sites/default/files/styles/product_large/public/products/9788241918285.jpg?itok=4x1Y7381",
+          "genre": "kamasutra"
+        },
+        {
+            "id":5,
+            "name":"Snakk sant om livet",
+            "author":"Kjersti Mjør",
+            "img":"https://s2.adlibris.com/images/59752964/snakk-sant-om-livet.jpg",
+            "genre": "kamasutra"
+        },
+        {
+            "id":6,
+            "name":"Den lange reisen",
+            "author":"Alyson Richaman",
+            "img":"https://s2.adlibris.com/images/60453335/den-lange-reisen.jpg",
+            "genre": "kamasutra"
+        }
+      ]
+}
